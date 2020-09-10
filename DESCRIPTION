@@ -39,7 +39,6 @@ Depends:
 Imports:
     checkmate (>= 1.9.3),
     filesstrings (>= 3.1.5),
-    ijtiff (>= 2.0.2),
     magrittr (>= 1.5),
     purrr,
     Rcpp (>= 1.0.1),
